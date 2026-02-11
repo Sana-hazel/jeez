@@ -2,6 +2,6 @@ package demo;
 public class App
 {
     public static void main(String[] args) {
-        System.out.println("Hello,world dizzy");
+        System.out.println("Hello, dizzy worldly world");
     }
 }
